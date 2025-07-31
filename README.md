@@ -42,8 +42,3 @@ Index of 30: 3
 - Python 3.x
 - No external dependencies
 
-## Learning Outcomes
-- Understanding of basic list operations in Python
-- Ability to manipulate list elements
-- Working with list indices
-- Sorting and modifying lists
